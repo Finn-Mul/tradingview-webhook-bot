@@ -1,0 +1,12 @@
+{
+  "name": "tradingview-webhook-bot",
+  "version": "1.0.0",
+  "description": "TradingView webhook bot for 24/5 XAUUSD trading",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
